@@ -30,7 +30,8 @@ Mintable helps you:
 1. Sign up for [Plaid's Free Plan](https://plaid.com/pricing/).
 2. Install Mintable:
 
-    ```bash
+    ```
+    bash
     npm install -g mintable
     mintable setup
     ```
